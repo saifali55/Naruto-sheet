@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/naruto-sheet/static/css/main.183172e8.css",
+    "main.js": "/naruto-sheet/static/js/main.db1d9d04.js",
+    "static/js/787.6a6d9d93.chunk.js": "/naruto-sheet/static/js/787.6a6d9d93.chunk.js",
+    "static/media/bg.jpg": "/naruto-sheet/static/media/bg.b9f65c5d38a200d812df.jpg",
+    "static/media/logo1.png": "/naruto-sheet/static/media/logo1.d2de51a97c78c786dea4.png",
+    "static/media/loading.gif": "/naruto-sheet/static/media/loading.a26dc8c8befc5a072bbd.gif",
+    "static/media/instagram1.png": "/naruto-sheet/static/media/instagram1.eabb84b9ec51170f5df7.png",
+    "static/media/star.png": "/naruto-sheet/static/media/star.8ad665e5c1d3f0f3d2bb.png",
+    "static/media/left-arrow.svg": "/naruto-sheet/static/media/left-arrow.53878c51904c34f1288e46174c107c57.svg",
+    "static/media/right-arrow.svg": "/naruto-sheet/static/media/right-arrow.8b8fb639d7ed68731e5b073c0700d3bf.svg",
+    "index.html": "/naruto-sheet/index.html",
+    "static/media/card.svg": "/naruto-sheet/static/media/card.fbc368a26f770d46aa7b0a437786eb5d.svg",
+    "main.183172e8.css.map": "/naruto-sheet/static/css/main.183172e8.css.map",
+    "main.db1d9d04.js.map": "/naruto-sheet/static/js/main.db1d9d04.js.map",
+    "787.6a6d9d93.chunk.js.map": "/naruto-sheet/static/js/787.6a6d9d93.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.183172e8.css",
+    "static/js/main.db1d9d04.js"
+  ]
+}
